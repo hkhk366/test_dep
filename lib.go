@@ -1,5 +1,5 @@
 package test_dep
 
 func PrintVersion() {
-	println("v0.0.4")
+	println("v0.0.5")
 }
